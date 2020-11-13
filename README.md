@@ -11,20 +11,20 @@ This HTML file has been has been successfully tested on [testi.at](https://testi
 
 Desktop Client:
 - Outlook 2019
-- Office 365 (Win)
+- Office 365 (Win 10)
 - Outlook 2010
 
 Mobile:
 - iPhone XS - Gmail
 - iPhone 11 iOS 13
 - iPhone 7 iOS 11
-- Android - Gmail
+- Android 8 - Gmail
 - Android 7 - Gmail
 
 Webmail:
 - Gmail - Chrome
 - GSuite - Chrome
-- Yahoo -Chrome
+- Yahoo - Chrome
 - Outlook - Chrome
 
 
